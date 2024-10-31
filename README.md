@@ -1,5 +1,5 @@
 - 👋 Dzien dobry. Witaj na GitHubie
-- 🌱 Aktualnie rozpocząłem maukę jężyka programowania Python.
+- 🌱 Aktualnie stawiam pierwsze kroki w języku programowania Python.
 
 <!---
 wwasik71/wwasik71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
